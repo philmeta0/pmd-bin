@@ -1,6 +1,6 @@
 {
   "name": "pmd-bin",
-  "version": "0.0.0-development-custom",
+  "version": "0.0.0-development",
   "description": "Standalone PMD (static code analyzer) with its own JRE",
   "author": "Matthias Rolke <mr.amtrack@gmail.com>",
   "bin": {
