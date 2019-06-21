@@ -23,7 +23,7 @@
     "url": "https://github.com/IPfolioDev/pmd-bin.git"
   },
   "scripts": {
-    "download-pmd": "bash download-pmd",
+    "download-pmd": "bash download-pmd.sh",
     "test": "bash test.sh"
   }
 }
